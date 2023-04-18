@@ -1,0 +1,12 @@
+{
+  "name": "noms-club",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "gen": "supabase gen types typescript --local > packages/www/app/infra/supabase-types.d.ts"
+  },
+  "devDependencies": {
+    "supabase": "^1.35.3"
+  }
+}
