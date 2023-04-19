@@ -26,7 +26,7 @@ Currently this project is in a use-as-is state. I need to do some more work to g
 - [daisyui](https://daisyui.com)
 - [sentry](http://sentry.io)
 
-## pacakges
+## packages
 
 ### scripts
 
